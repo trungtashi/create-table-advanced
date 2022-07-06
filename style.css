@@ -1,0 +1,10 @@
+table{
+    width: 50%;
+}
+th{
+    background-color: red;
+    color: white;
+}
+p{
+    text-align: center;
+}
